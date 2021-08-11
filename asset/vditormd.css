@@ -1,0 +1,45 @@
+.vditor-ir .vditor-reset {
+    font-size: 14px;
+}
+
+.vditor-reset h1,
+.vditor-reset h2,
+.vditor-reset h3,
+.vditor-reset h4,
+.vditor-reset h5,
+.vditor-reset h6 {
+    margin-top: 0.5em;
+    margin-bottom: 0;
+    font-weight: 500;
+    line-height: 1.25;
+    padding: 0;
+}
+
+.vditor-reset h1 {
+    font-size: 18px;
+}
+
+.vditor-reset h2 {
+    font-size: 16px;
+}
+
+.vditor-reset h3 {
+    font-size: 14pm;
+}
+
+.vditor-reset h4 {
+    font-size: 1em;
+}
+
+.vditor-reset h5 {
+    font-size: 1em;
+}
+
+.vditor-reset h6 {
+    font-size: 1em;
+}
+
+.vditor-reset p {
+    margin-top: 0;
+    margin-bottom: 1px;
+}
